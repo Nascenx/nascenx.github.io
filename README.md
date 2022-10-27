@@ -1,4 +1,5 @@
-# <div align = "center">Lizhi Xu</div>
+# Lizhi Xu
+
 **Quick Access** [Contact](#contact) | [Bio](#bio) | [Research](#research) | [Experience](#exp) | [Useful Links](#useful)
 
 
