@@ -37,9 +37,15 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 
 <a id = "exp"></a>
 ## Experience
+
+*Researching*
 + **2022.10-now** Department of Epidemiology and Health Statistics, School of Public Health, Peking University *Holding a small topic on my own for the first time* Supervised by [Shengfeng Wang](http://sph.pku.edu.cn/info/1186/3606.htm).
 + **2022.09-now** Orthopaedics, Peking University Third Hospital *Studying the basis of research*
 + **2021.12-now** Institue of Sports Medicine, Peking University Third Hospital *Studying the basis of research*
+
+*Education*
++ **2022.09-now** Undergraduate. School of Basic Medical Sciences, Peking University
++ **2021.09-2022.06** Undergraduate. School of Pharmaceutical Sciences, Peking University
 
 <a id = "useful"></a>
 ## Useful Links
