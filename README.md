@@ -1,6 +1,6 @@
 # Lizhi Xu
 
-**Quick Access** [Contact](#contact) | [Bio](#bio) | [Research](#research) | [Experience](#exp) | [Useful Links](#useful)
+**Quick Access** | [Contact](#contact) | [Bio](#bio) | [Research](#research) | [Experience](#exp) | [Useful Links](#useful)
 
 
 <a id = "contact"></a>
