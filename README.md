@@ -5,14 +5,14 @@
 
 <a id = "contact"></a>
 ## Contact
-**Affiliation**
+*Affiliation*
 + School of Basic Medical Sciences, Peking University, 38 Xueyuan Road, Beijing 100191, China 
 + *(outdated)* School of Pharmaceutical Sciences, Peking University, 38 Xueyuan Road, Beijing 100191, China
 
-**Address**
+*Address*
 + Peking University Health Science Center, Peking University, 38 Xueyuan Road, Beijing 100191, China
 
-**E-mail**
+*E-mail*
 + *lizhixu@bjmu.edu.cn* OR *lizhixu2004@outlook.com*
 
 <a id = "bio"></a>
@@ -26,13 +26,13 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 <a id = "research"></a>
 ## Research
 
-**Going-on**
+*Going-on*
 + secret lol
 
-**Finalised**
+*Finalised*
 + *not yet lol*
 
-**Published**
+*Published*
 + *not yet lol*
 
 <a id = "exp"></a>
