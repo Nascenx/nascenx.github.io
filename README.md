@@ -30,10 +30,10 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 + secret lol
 
 *Finalised*
-+ *not yet lol*
++ not yet lol
 
 *Published*
-+ *not yet lol*
++ not yet lol
 
 <a id = "exp"></a>
 ## Experience
