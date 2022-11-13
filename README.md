@@ -26,8 +26,10 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 <a id = "research"></a>
 ## Research
 
-*Going-on*
-+ secret lol
+*Ongoing*
++ Animal Studies of Stromal Vascular Fraction Application on Acetabular Labrum Defect
++ Finite Element Analysis of Different Osteotomy Methods for Kyphotic Deformity of Osteoporotic Vertebral Compression Fracture
++ A Simulated Randomized Controlled Trial of Statins in Preventing Cardiotoxicity of Chemotherapy Drugs for Breast Cancer
 
 *Finalised*
 + not yet lol
@@ -39,7 +41,7 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 ## Experience
 
 *Researching*
-+ **2022.10-now** Department of Epidemiology and Health Statistics, School of Public Health, Peking University *Holding a small topic on my own for the first time* Supervised by [Shengfeng Wang](http://sph.pku.edu.cn/info/1186/3606.htm).
++ **2022.10-now** Department of Epidemiology and Health Statistics, School of Public Health, Peking University Supervised by [Shengfeng Wang](http://sph.pku.edu.cn/info/1186/3606.htm) *Holding a small topic on my own for the first time* .
 + **2022.09-now** Orthopaedics, Peking University Third Hospital *Studying the basis of research*
 + **2021.12-now** Institue of Sports Medicine, Peking University Third Hospital *Studying the basis of research*
 
