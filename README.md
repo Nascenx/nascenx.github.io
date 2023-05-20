@@ -31,7 +31,7 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 + Finite Element Analysis of Different Osteotomy Methods for Kyphotic Deformity of Osteoporotic Vertebral Compression Fracture
 
 *Finalised*
-+ *terminated* - A Simulated Randomized Controlled Trial of Statins in Preventing Cardiotoxicity of Chemotherapy Drugs for Breast Cancer
++ *terminated for potential covariants* - A Simulated Randomized Controlled Trial of Statins in Preventing Cardiotoxicity of Chemotherapy Drugs for Breast Cancer
 
 *Published*
 + not yet lol
