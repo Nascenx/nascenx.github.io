@@ -29,10 +29,9 @@ Now I'm honourly supervised by Xin Zhang, deputy chief physician and assistant r
 *Ongoing*
 + Animal Studies of Stromal Vascular Fraction Application on Acetabular Labrum Defect
 + Finite Element Analysis of Different Osteotomy Methods for Kyphotic Deformity of Osteoporotic Vertebral Compression Fracture
-+ A Simulated Randomized Controlled Trial of Statins in Preventing Cardiotoxicity of Chemotherapy Drugs for Breast Cancer
 
 *Finalised*
-+ not yet lol
++ *terminated* - A Simulated Randomized Controlled Trial of Statins in Preventing Cardiotoxicity of Chemotherapy Drugs for Breast Cancer
 
 *Published*
 + not yet lol
